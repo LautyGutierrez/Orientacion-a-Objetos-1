@@ -1,0 +1,24 @@
+package ar.edu.unlp.info.oo1.Parcial2022;
+
+import java.util.*;
+
+public class Sistema {
+	private List<Contribuyente> contribuyentes;
+	
+	public Sistema() {
+		this.contribuyentes = new ArrayList<Contribuyente>();
+	}
+	
+	public Contribuyente agregarContribuyente(String nombre, int dni, String email, String loca) {
+		Contribuyente c = new Contribuyente(nombre, dni, email, loca); 
+		this.contribuyentes.add(c);
+		return c;
+	}
+	
+	public Bien agregarInmueble(int numero, double valorLote, double valorEdi, 
+	Contribuyente contri) {
+		return contri.agregarInmueble(numero, valorLote, valorEdi);
+	}
+	
+	
+}

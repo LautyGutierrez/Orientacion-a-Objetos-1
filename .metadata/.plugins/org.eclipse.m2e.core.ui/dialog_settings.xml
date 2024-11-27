@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Maricel\eclipse-workspace\OO1\ejercicio2Balanza"/>
+			<item value="C:\Users\Maricel\Desktop\Facultad\Segundo año\Orientacion a Objetos 1\Práctica OO1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Maricel\eclipse-workspace\OO1"/>
+			<item value="C:\Users\Maricel\eclipse-workspace\OO1\ejercicio2Balanza\src\test\java\ar\edu\unlp\info\oo1\ejercicio2Balanza\BalanzaTest.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="defaultLocal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="ar.edu.unlp.info.oo1.Parcial2022"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio17_Facturacion_de_llamadas"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio16_politicas_de_cancelacion"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio15_alquiler_de_propiedades"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio14_intervalo_de_tiempo"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio13_Cliente_de_correo"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio12_volumen_y_superficie_de_solidos"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio11_inversor"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio10_Job_Scheduler"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio9_cuenta_con_ganchos"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio8_distribuidora_electrica"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio7"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio6_red_de_alumbrado"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio4_figuras_y_cuerpos"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio3Bis_balanzaMejorada"/>
+		</list>
+		<list key="groupId">
+			<item value="ar.edu.unlp.info.oo1"/>
+		</list>
+		<list key="artifactId">
+			<item value="Parcial2022"/>
+			<item value="Ejercicio17-Facturacion-de-llamadas"/>
+			<item value="Ejercicio16-politicas-de-cancelacion"/>
+			<item value="Ejercicio15-alquiler-de-propiedades"/>
+			<item value="Ejercicio14-intervalo-de-tiempo"/>
+			<item value="Ejercicio13-Cliente-de-correo"/>
+			<item value="Ejercicio12-volumen-y-superficie-de-solidos"/>
+			<item value="Ejercicio11-inversor"/>
+			<item value="Ejercicio10_Job_Scheduler"/>
+			<item value="Ejercicio9-cuenta-con-ganchos"/>
+			<item value="Ejercicio8-distribuidora-electrica"/>
+			<item value="Ejercicio7"/>
+			<item value="Ejercicio6_red_de_alumbrado"/>
+			<item value="Ejercicio4-figuras-y-cuerpos"/>
+			<item value="Ejercicio3Bis_balanzaMejorada"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeGroupId">
+			<item value="ar.edu.unlp.info.oo1"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="objetos-uno"/>
+		</list>
+		<list key="archetypeVersion">
+			<item value="1.0.0"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value="https://github.com/edu-unlp-info-objetos/oo1/blob/main/objetos-uno-archetype/objetos-uno-archetype-1.0.0.jar?raw=true"/>
+		</list>
+	</section>
+</section>

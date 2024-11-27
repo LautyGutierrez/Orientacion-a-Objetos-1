@@ -1,0 +1,17 @@
+package src;
+
+public class Paciente {
+	private String nombre;
+	private boolean tieneObra;
+	private double costo;
+	
+	public Paciente(String nom, boolean tiene, double costo) {
+		nombre = nom;
+		tieneObra = tiene;
+		this.costo = costo;
+	}
+	
+	public String getNombre() {
+		return nombre;
+	}
+}

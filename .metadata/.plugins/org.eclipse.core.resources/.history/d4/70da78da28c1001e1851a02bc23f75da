@@ -1,0 +1,11 @@
+package src;
+
+public class ProbandoCosas {
+
+	public static void main(String[] args) {
+		double promedio = 5.3;
+		String nota = (promedio >= 6.0) ? "Aprobado" : "Desaprobado";
+		System.out.println(nota);
+	}
+
+}

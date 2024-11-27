@@ -1,0 +1,9 @@
+package ar.edu.unlp.info.oo1.Ejercicio17_Facturacion_de_llamadas;
+
+import java.util.*;
+
+public class Sistema {
+	private List<Integer> numeros;
+	private List<Cliente> clientes;
+	
+}

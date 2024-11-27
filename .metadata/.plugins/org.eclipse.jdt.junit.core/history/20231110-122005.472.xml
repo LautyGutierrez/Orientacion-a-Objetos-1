@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SistemaTest" project="Parcial2022" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="ar.edu.unlp.info.oo1.Parcial2022.SistemaTest" time="0.08" displayname="SistemaTest" uniqueid="[engine:junit-jupiter]/[class:ar.edu.unlp.info.oo1.Parcial2022.SistemaTest]">
+    <testcase name="testContribuyenteMasPago" classname="ar.edu.unlp.info.oo1.Parcial2022.SistemaTest" time="0.08" displayname="testContribuyenteMasPago()" uniqueid="[engine:junit-jupiter]/[class:ar.edu.unlp.info.oo1.Parcial2022.SistemaTest]/[method:testContribuyenteMasPago()]"/>
+  </testsuite>
+</testrun>
